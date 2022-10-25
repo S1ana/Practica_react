@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  border: rgb(128, 169, 221) 5px solid;
+  align-items: center;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+table, td {
+margin: 15px;
+padding: 15px;
+
+}
+h1{
+color:rgb(128, 169, 221) ;
+text-shadow: rgb(128, 169, 221)2px;
+}
